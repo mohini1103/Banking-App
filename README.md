@@ -5,10 +5,15 @@ The Bank Account Management System is a RESTful API built using Spring Boot to m
 The system follows a layered architecture, incorporating a service layer, DTO-based communication, and repository-based database interactions for smooth operations.
 
 🚀 Features
+
 ✔️ Create a new bank account
+
 ✔️ Retrieve all bank accounts
+
 ✔️ Get account details by ID
+
 ✔️ Update account details
+
 ✔️ Delete an account
 
 🛠️ Tech Stack
